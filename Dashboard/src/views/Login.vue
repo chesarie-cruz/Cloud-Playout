@@ -41,7 +41,7 @@ export default {
   name: 'Login',
   data() {
       return {
-          ServerApi: "http://iptv-api.whoa.ph:9001",
+          ServerApi: "http://server",
         Username: '',
         Password: '',
         isLoading: false,
